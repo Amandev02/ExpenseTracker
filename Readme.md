@@ -1,1 +1,1 @@
-#A Spring Boot App for Tracking Daily Expenses
+# A Spring Boot App for Tracking Daily Expenses
